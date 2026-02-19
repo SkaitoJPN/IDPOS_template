@@ -1,0 +1,28 @@
+# Python Dependencies for IDPOS Loyalty Analysis
+
+# Databricks connectivity
+databricks-sql-connector>=3.0.0
+databricks-sdk>=0.20.0
+
+# Data manipulation and analysis
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Environment configuration
+python-dotenv>=1.0.0
+
+# Performance optimization (optional but recommended)
+pyarrow>=12.0.0
+
+# Jupyter notebook support
+ipykernel>=6.20.0
+jupyter>=1.0.0
+
+# Data visualization (optional)
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.14.0
+
+# Export capabilities (optional)
+openpyxl>=3.1.0  # For Excel export
+xlsxwriter>=3.0.0  # Alternative Excel writer
