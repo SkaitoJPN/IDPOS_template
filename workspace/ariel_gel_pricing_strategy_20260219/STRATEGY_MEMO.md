@@ -1,4 +1,4 @@
-# A Single Pricing Mistake After May 2025 Handed Attack a 2× Lead in New Buyers — and Here Is the Exact Fix
+# 本体通常 ¥198 Trial Drive Successfully Grew Ariel Gel Shoppers in 2025 — But High Lapse from Price-Induced Trial Means Refill Retention Is Now the Critical Battleground
 
 **Prepared for:** Brand Management & Marketing Leadership
 **Period:** January 2025 – January 2026 | 9 National Retailers | Loyalty Cardholders
@@ -9,9 +9,9 @@
 ## Executive Summary
 
 - **Ariel raised its regular bottle price +29% in May 2025 while Attack cut theirs -22%.** That single set of decisions more than doubled the visible shelf gap at the most-checked product on the shelf, and it is the primary origin of the buyer loss documented in this report.
-- Attack attracted **twice as many first-time buyers as Ariel** last year (2.16 million vs. 1.14 million). From the combined pool of new Ariel and Attack buyers, **Attack captured 65.4% and Ariel captured 34.6%** — loyalty card data only.
-- **1.78 million Ariel buyers stopped purchasing during the analysis period** — roughly 410,000 moved directly to Attack, almost always buying the exact same size they had bought from Ariel.
-- Ariel's product quality is a proven advantage: on every refill size, Ariel's share of first-time buyers who return for a second purchase beats Attack by **12 to 17 percentage points** — the problem is not the product, it is the price at which shoppers first encounter it.
+- Ariel Gel is a **smaller brand than Attack 抗菌EX** — this context matters when interpreting new-buyer ratios. Despite the scale gap, the **本体通常 ¥198 promotional price in 2025 successfully recruited trial shoppers and grew the number of Ariel Gel buyers year-on-year.** Attack still attracted approximately twice the raw number of first-time buyers (2.16M vs. 1.14M), but Ariel grew its shopper base — a meaningful achievement for a smaller brand.
+- **The trial was successful in bringing shoppers in — but low-quality trial.** At ¥198, many buyers experienced the product at an unsustainable price point and did not return at regular prices. **1.78 million Ariel buyers stopped purchasing** — roughly 410,000 moved directly to Attack. Lapse from 本体通常 is the worst of all sizes at **54.9%**.
+- Ariel's product quality is a proven advantage: on every refill size, Ariel's share of first-time buyers who return for a second purchase beats Attack by **12 to 17 percentage points** — the problem is not the product, it is the quality of the first-purchase occasion and the price at which trial shoppers re-encounter the brand.
 
 ---
 
@@ -23,33 +23,39 @@ At the current pace, Attack closes approximately **84,000 additional loyal buyer
 
 ## Business Impact
 
-| Item                                                       | Value                          | ¥ Revenue Estimate                                                       |
-| ---------------------------------------------------------- | ------------------------------ | ------------------------------------------------------------------------ |
-| Ariel first-time buyers (12 months)                        | 1,140,000                      | —                                                                        |
-| Attack first-time buyers (12 months)                       | 2,160,000                      | —                                                                        |
-| Ariel share of new buyers (Ariel + Attack combined)        | 34.6% (loyalty card data only) | —                                                                        |
-| Ariel buyers who stopped purchasing (12 months)            | ~1,780,000                     | **~¥2.58B/year at risk (estimate)**¹                                     |
-| Of those, buyers who switched directly to Attack           | ~410,000                       | —                                                                        |
-| Regular bottle buyers who stopped — worst performing size  | 328,000 (59% lapse rate)       | ¥250M/year at risk (estimate: 328,000 × ¥255 × 3 purchases/year)         |
-| Super Ultra refill buyers who stopped                      | 340,000 (46.7% lapse rate)     | ¥859M/year at risk (estimate: 340,000 × ¥842 × 3)                        |
-| Ultra Jumbo refill buyers who stopped                      | 295,000 (48.4% lapse rate)     | ¥578M/year at risk (estimate: 295,000 × ¥653 × 3)                        |
-| Super Large refill buyers who stopped                      | 429,000 (46.8% lapse rate)     | ¥433M/year at risk (estimate: 429,000 × ¥337 × 3)                        |
-| Mega Jumbo refill buyers who stopped                       | 157,000 (51% lapse rate)       | ¥461M/year at risk (estimate: 157,000 × ¥980 × 3)                        |
-| Revenue recovery opportunity (regular bottle lapse –10pp)  | ~44,000 buyers/year reinstated | ¥8.4M–22.4M/year (estimate: 33–55K × ¥255–408, before repeat multiplier) |
-| New loyal shoppers from Mega Jumbo trial investment (+20%) | ~30,000 buyers/year            | ¥114M/year (estimate: 30,000 × ¥949 × 4 purchases/year)                  |
+| Size                              | # Lapsed Users | # Total Users | Lapse Rate | ¥ Revenue at Risk (estimate)                           |
+| --------------------------------- | -------------- | ------------- | ---------- | ------------------------------------------------------ |
+| 本体通常 (¥198 trial target)       | 406,262        | 740,575       | 54.9%      | ~¥310M/year (406K × ¥255 × 3 purchases/year)           |
+| 詰替超特大 (key intermission size) | 494,040        | 1,108,637     | 44.6%      | ~¥498M/year (494K × ¥337 × 3 purchases/year)           |
+| 詰替超ｳﾙﾄﾗｼﾞｬﾝﾎﾞ                  | 392,206        | 918,716       | 42.7%      | ~¥992M/year (392K × ¥842 × 3 purchases/year)           |
+| 詰替ｳﾙﾄﾗｼﾞｬﾝﾎﾞ                    | 322,200        | 819,127       | 39.3%      | ~¥631M/year (322K × ¥653 × 3 purchases/year)           |
+| 詰替ﾒｶﾞｼﾞｬﾝﾎﾞ                     | 175,587        | 349,646       | 50.2%      | ~¥514M/year (176K × ¥980 × 3 purchases/year)           |
+| **Total Ariel Gel (brand)**        | **~1,783,580** | _(filter sub-brand, not sum of above)_ | — | **~¥2.58B/year at risk** |
+| Buyers switching directly to Attack | ~410,000      | —             | —          | —                                                      |
+| Revenue recovery: 本体通常 (−10pp lapse) | 40,000+   | —             | —          | ¥25M–67M/year                                          |
+| Revenue recovery: Mega Jumbo loyal (+20% trial) | ~30,000 | —          | —          | ~¥342M lifetime value (est.)                           |
 
-¹ Estimated by summing lapsed shoppers × average spend × 3 purchases/year across all five sizes. Conservative floor — actual at-risk revenue is higher if lapsed shoppers averaged more than 3 purchases before stopping.
+_¹ Brand total (1,783,580) is from sub-brand level query — NOT the arithmetic sum of the size rows above, which overlap. ¥ estimates: 3 purchases/year × average price per size. Loyalty cardholder data only._
 
 ---
 
 ## Key Insights
 
-### Key Insight 1: The Regular Bottle Price Increase After May 2025 Is Driving Away the Shoppers Ariel Can Least Afford to Lose
+### Key Insight 1: The ¥198 本体通常 Trial Was Strategically Right — But It Created Low-Quality Trial. The Next Step Is Converting Those Buyers Into Refill Users.
 
-- **What we found:** ¥255 last-purchase average for those who left vs. ¥408 for those who stayed.
-- **Why it matters:** 59% non-return rate — worst across all Ariel sizes.
-- **What to do:** Target ¥200–250 on promotion, below ¥350 everyday. The top 3 retailers by volume where the regular bottle price gap vs. Attack is currently widest should be the first deployment sites — **these retailers must be identified from weekly price-gap data [required input from Customer Development, not yet available in this analysis].**
-- **Expected impact:** 33,000–55,000 reinstated buyers × ¥255–408 = **¥8.4M–22.4M/year** in direct revenue recovery (estimate, per purchase occasion, before repeat multiplier). At 3 purchases per year, the full recovery range is approximately **¥25M–67M/year**.
+- **What we found:** 本体通常 has the highest lapse rate of all Ariel sizes at **54.9%** (406,262 lapsed out of 740,575 buyers). The ¥198 promotional price successfully recruited trial shoppers and grew total Ariel Gel shopper count in 2025 — the strategy worked on acquisition. However, shoppers who lapsed averaged only **¥255** at their last purchase vs. ¥408 for those who stayed, confirming that low-price trial attracted shoppers who did not sustain at regular price.
+- **Why it matters:** The ¥198 trial was a top-of-funnel success but created a retention problem. These shoppers exist in the loyalty database — they tried Ariel Gel and left. The right next action is not more ¥198 promotions; it is a pathway from 本体通常 trial to refill sizes where Ariel's retention advantage (12–17pp above Attack) kicks in.
+- **What to do:** Continue targeted ¥200–250 本体通常 promotions at top retailers to maintain trial flow. Simultaneously, design a refill upgrade offer — e.g., a 詰替超特大 at ≤¥450 alongside 本体通常 purchase — to funnel trial buyers into the size where Ariel's quality retention advantage is strongest. Customer Development to identify the 3 retailers with the widest 本体通常 price gap vs. Attack for immediate action.
+- **Expected impact:** Converting even 10% of the 406,262 lapsed 本体通常 buyers into 詰替超特大 repeat purchasers = ~40,000 buyers entering the refill retention engine → **¥25M–67M/year** in recovered revenue (estimate). Long-term compounding through refill loyalty is the larger prize.
+
+---
+
+### Key Insight 1b: 詰替超特大 Is the Critical Transition Size — Largest Volume After 詰替超ｳﾙﾄﾗｼﾞｬﾝﾎﾞ and the Direct Head-to-Head with Attack 抗菌EX Same Size
+
+- **What we found:** 詰替超特大 has **1,108,637 buyers** (2nd largest size by shoppers for Ariel Gel) and a **44.6% lapse rate** (494,040 lapsed). Critically, among lapsed 詰替超特大 buyers who switched to Attack, **45% went to Attack 詰替超特大** — this is the clearest same-size competitive confrontation at intermission scale.
+- **Why it matters:** This size sits at the strategic transition between trial (本体通常) and full-loyalty (詰替超ｳﾙﾄﾗｼﾞｬﾝﾎﾞ / 詰替ﾒｶﾞｼﾞｬﾝﾎﾞ). Attack 抗菌EX 詰替超特大 has 2,255,320 buyers vs. Ariel's 1,108,637 — Attack is more than double the size here. **Price gap at this size is of critical strategic importance** — a shopper who gets priced out of 詰替超特大 either downgrades back to 本体通常 or switches to Attack at the same size.
+- **What to do:** Monitor and defend the price gap on 詰替超特大 vs. Attack 詰替超特大 weekly. Set a maximum acceptable price gap trigger of ¥50. At equivalent or near-equivalent price, Ariel's quality retention advantage should win — do not concede this size via pricing. Run targeted promotions to recruit 本体通常 trial buyers up to 詰替超特大 as the upgrade path.
+- **Expected impact:** Closing the 2× shopper gap with Attack at 詰替超特大 over 2 years represents ~1.1M additional buyer-occasions per year at ~¥337 average = **~¥370M in annual revenue upside** (estimate, if share gap halves). Protecting existing 詰替超特大 buyers from further lapse is the immediate priority.
 
 ---
 
@@ -91,14 +97,16 @@ At the current pace, Attack closes approximately **84,000 additional loyal buyer
 
 ## Recommended Actions
 
-| When             | What to do                                                                               | Expected outcome                                            | Owner                       | Success Metric                                             |
-| ---------------- | ---------------------------------------------------------------------------------------- | ----------------------------------------------------------- | --------------------------- | ---------------------------------------------------------- |
-| **Next 30 days** | Correct regular bottle price gap vs. Attack — ¥200–250 on promotion, below ¥350 everyday | Recover 33,000–55,000 buyers/year                           | Customer Development Lead   | ¥350 everyday price at top 5 retailers by March 1          |
-| **Next 30 days** | Set trial price ceilings: Mega Jumbo ≤ ¥950, Ultra Jumbo ≤ ¥800                          | Remove primary abandonment trigger on highest-loyalty sizes | Category Revenue Management | Mega Jumbo ≤ ¥950 confirmed at all 9 retailers by March 15 |
-| **1–3 months**   | Run Mega Jumbo targeted promotions at retailers where Attack is gaining trial            | +30,000 loyal shoppers/year                                 | Brand Manager               | +20% first-time buyers vs. Q1 2025 baseline by June 2026   |
-| **1–3 months**   | Weekly size × retailer price-gap dashboard vs. Attack                                    | Early warning system                                        | Customer Development Lead   | Live dashboard by March 31; first review week of April     |
-| **3–12 months**  | Shift Super Ultra refill spend from price-off to display and end-cap placement           | Price has zero trial effect; visibility does                | Brand Manager + Finance     | Budget reallocated before H2 planning cycle                |
-| **3–12 months**  | Protect refill pricing — no further Ultra Jumbo increases                                | Defend 12–17pp return rate advantage                        | Category Revenue Management | No refill ASP increase in H1 2026 plan                     |
+| When             | What to do                                                                                                          | Expected outcome                                                          | Owner                       | Success Metric                                                    |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- | --------------------------- | ----------------------------------------------------------------- |
+| **Next 30 days** | Continue 本体通常 targeted promotions at ¥200–250; identify 3 retailers with widest gap vs. Attack for priority    | Maintain trial flow; recover 40,000+ lapsed 本体通常 buyers              | Customer Development Lead   | ¥350 everyday price at top 5 retailers by March 1                  |
+| **Next 30 days** | Set trial price ceilings: 詰替ﾒｶﾞｼﾞｬﾝﾎﾞ ≤ ¥950, 詰替ｳﾙﾄﾗｼﾞｬﾝﾎﾞ ≤ ¥800                                           | Remove primary abandonment trigger on highest-loyalty sizes               | Category Revenue Management | Confirmed at all 9 retailers by March 15                           |
+| **Next 30 days** | Defend 詰替超特大 price gap vs. Attack 抗菌EX same size — ¥50 gap triggers 48-hr pricing review                     | Protect 1.1M+ shoppers; prevent further Attack gains at this size         | Customer Development Lead   | Weekly price-gap monitoring live by March 1                        |
+| **1–3 months**   | Design 本体通常 → 詰替超特大 upgrade pathway (refill trial offer with 本体通常 purchase)                             | Convert 10%+ of 本体通常 trial buyers into refill loyalty engine          | Brand Manager               | Upgrade offer tested at 2+ retailers by May 2026                   |
+| **1–3 months**   | Run 詰替ﾒｶﾞｼﾞｬﾝﾎﾞ targeted price promotions at retailers where Attack is gaining trial                             | +30,000 loyal shoppers/year (~¥342M lifetime value, est.)                 | Brand Manager               | +20% first-time 詰替ﾒｶﾞｼﾞｬﾝﾎﾞ buyers vs. Q1 2025 by June 2026   |
+| **1–3 months**   | Weekly size × retailer price-gap dashboard vs. Attack (prioritize 詰替超特大, 詰替ﾒｶﾞｼﾞｬﾝﾎﾞ, 本体通常)             | Early warning system; prevent Attack from opening new gaps                | Customer Development Lead   | Live dashboard by March 31; first review week of April             |
+| **3–12 months**  | Shift 詰替超ｳﾙﾄﾗｼﾞｬﾝﾎﾞ price-off budget to 詰替ﾒｶﾞｼﾞｬﾝﾎﾞ and 本体通常 trial promotions                          | Budget-neutral; doubles new-buyer yield per promotional yen               | Brand Manager + Finance     | Budget reallocated before H2 2026 planning cycle                   |
+| **3–12 months**  | Protect refill pricing — no further price increases on any refill size in H1 2026                                   | Defend 12–17pp return rate advantage over Attack                          | Category Revenue Management | No refill ASP increase in H1 2026 operating plan                   |
 
 ---
 
