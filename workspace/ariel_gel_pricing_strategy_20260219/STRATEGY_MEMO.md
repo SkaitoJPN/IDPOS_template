@@ -17,23 +17,23 @@
 
 ## Urgency
 
-At the current pace, Attack closes approximately **84,000 additional loyal buyer gap versus Ariel every month** (1.02M annual gap ÷ 12). Waiting one additional quarter means ceding an estimated **~252,000 buyers and ~¥239M in annual revenue** that Attack will compound into multi-year customer relationships. The cost of waiting 90 days is not 90 days of delay — it is permanent share loss.
+At the current pace, Attack closes approximately **85,000 additional loyal buyer gap versus Ariel every month** (1.02M annual gap ÷ 12). Waiting one additional quarter means ceding an estimated **~252,000 buyers and ~¥239M in annual revenue** that Attack will compound into multi-year customer relationships. The cost of waiting 90 days is not 90 days of delay — it is permanent share loss.
 
 ---
 
 ## Business Impact
 
-| Size                              | # Lapsed Users | # Total Users | Lapse Rate | ¥ Revenue at Risk (estimate)                           |
-| --------------------------------- | -------------- | ------------- | ---------- | ------------------------------------------------------ |
-| 本体通常 (¥198 trial target)       | 406,262        | 740,575       | 54.9%      | ~¥310M/year (406K × ¥255 × 3 purchases/year)           |
-| 詰替超特大 (key intermission size) | 494,040        | 1,108,637     | 44.6%      | ~¥498M/year (494K × ¥337 × 3 purchases/year)           |
-| 詰替超ｳﾙﾄﾗｼﾞｬﾝﾎﾞ                  | 392,206        | 918,716       | 42.7%      | ~¥992M/year (392K × ¥842 × 3 purchases/year)           |
-| 詰替ｳﾙﾄﾗｼﾞｬﾝﾎﾞ                    | 322,200        | 819,127       | 39.3%      | ~¥631M/year (322K × ¥653 × 3 purchases/year)           |
-| 詰替ﾒｶﾞｼﾞｬﾝﾎﾞ                     | 175,587        | 349,646       | 50.2%      | ~¥514M/year (176K × ¥980 × 3 purchases/year)           |
-| **Total Ariel Gel (brand)**        | **~1,783,580** | _(filter sub-brand, not sum of above)_ | — | **~¥2.58B/year at risk** |
-| Buyers switching directly to Attack | ~410,000      | —             | —          | —                                                      |
-| Revenue recovery: 本体通常 (−10pp lapse) | 40,000+   | —             | —          | ¥25M–67M/year                                          |
-| Revenue recovery: Mega Jumbo loyal (+20% trial) | ~30,000 | —          | —          | ~¥342M lifetime value (est.)                           |
+| Size                                            | # Lapsed Users | # Total Users                          | Lapse Rate | ¥ Revenue at Risk (estimate)                 |
+| ----------------------------------------------- | -------------- | -------------------------------------- | ---------- | -------------------------------------------- |
+| 本体通常 (¥198 trial target)                    | 406,262        | 740,575                                | 54.9%      | ~¥310M/year (406K × ¥255 × 3 purchases/year) |
+| 詰替超特大 (key intermission size)              | 494,040        | 1,108,637                              | 44.6%      | ~¥498M/year (494K × ¥337 × 3 purchases/year) |
+| 詰替超ｳﾙﾄﾗｼﾞｬﾝﾎﾞ                                | 392,206        | 918,716                                | 42.7%      | ~¥992M/year (392K × ¥842 × 3 purchases/year) |
+| 詰替ｳﾙﾄﾗｼﾞｬﾝﾎﾞ                                  | 322,200        | 819,127                                | 39.3%      | ~¥631M/year (322K × ¥653 × 3 purchases/year) |
+| 詰替ﾒｶﾞｼﾞｬﾝﾎﾞ                                   | 175,587        | 349,646                                | 50.2%      | ~¥514M/year (176K × ¥980 × 3 purchases/year) |
+| **Total Ariel Gel (brand)**                     | **~1,783,580** | _(filter sub-brand, not sum of above)_ | —          | **~¥2.58B/year at risk**                     |
+| Buyers switching directly to Attack             | ~410,000       | —                                      | —          | —                                            |
+| Revenue recovery: 本体通常 (−10pp lapse)        | 40,000+        | —                                      | —          | ¥25M–67M/year                                |
+| Revenue recovery: Mega Jumbo loyal (+20% trial) | ~30,000        | —                                      | —          | ~¥342M lifetime value (est.)                 |
 
 _¹ Brand total (1,783,580) is from sub-brand level query — NOT the arithmetic sum of the size rows above, which overlap. ¥ estimates: 3 purchases/year × average price per size. Loyalty cardholder data only._
 
@@ -55,7 +55,7 @@ _¹ Brand total (1,783,580) is from sub-brand level query — NOT the arithmetic
 - **What we found:** 詰替超特大 has **1,108,637 buyers** (2nd largest size by shoppers for Ariel Gel) and a **44.6% lapse rate** (494,040 lapsed). Critically, among lapsed 詰替超特大 buyers who switched to Attack, **45% went to Attack 詰替超特大** — this is the clearest same-size competitive confrontation at intermission scale.
 - **Why it matters:** This size sits at the strategic transition between trial (本体通常) and full-loyalty (詰替超ｳﾙﾄﾗｼﾞｬﾝﾎﾞ / 詰替ﾒｶﾞｼﾞｬﾝﾎﾞ). Attack 抗菌EX 詰替超特大 has 2,255,320 buyers vs. Ariel's 1,108,637 — Attack is more than double the size here. **Price gap at this size is of critical strategic importance** — a shopper who gets priced out of 詰替超特大 either downgrades back to 本体通常 or switches to Attack at the same size.
 - **What to do:** Monitor and defend the price gap on 詰替超特大 vs. Attack 詰替超特大 weekly. Set a maximum acceptable price gap trigger of ¥50. At equivalent or near-equivalent price, Ariel's quality retention advantage should win — do not concede this size via pricing. Run targeted promotions to recruit 本体通常 trial buyers up to 詰替超特大 as the upgrade path.
-- **Expected impact:** Closing the 2× shopper gap with Attack at 詰替超特大 over 2 years represents ~1.1M additional buyer-occasions per year at ~¥337 average = **~¥370M in annual revenue upside** (estimate, if share gap halves). Protecting existing 詰替超特大 buyers from further lapse is the immediate priority.
+- **Expected impact:** Closing half the 2× shopper gap with Attack at 詰替超特大 over 2 years = ~550,000 additional buyer-occasions × ¥337 × 3 purchases/year = **~¥555M in incremental annual revenue** (estimate). Protecting existing 詰替超特大 buyers from further lapse is the immediate priority.
 
 ---
 
@@ -70,7 +70,7 @@ _¹ Brand total (1,783,580) is from sub-brand level query — NOT the arithmetic
 
 ### Key Insight 3: When an Ariel Buyer Leaves, They Go Directly to the Equivalent Attack Size — Not to Another Brand
 
-- **What we found:** 95% of Mega Jumbo leavers → Attack Mega Jumbo; 73% of Ultra Jumbo leavers → Attack Ultra Jumbo.
+- **What we found:** 95% of Mega Jumbo leavers → Attack Mega Jumbo; 73% of Super Ultra refill leavers → Attack Super Ultra refill (詰替超ｳﾙﾄﾗｼﾞｬﾝﾎﾞ).
 - **Why it matters:** Every size-level price decision has an immediate, direct competitive consequence.
 - **What to do:** The Customer Development team pulls a **weekly price-gap report** for the 3 highest-risk sizes — Mega Jumbo, Ultra Jumbo, and Regular Bottle — at the top 5 retailers. If Attack's shelf price drops more than **¥50 below Ariel's price** on any of these sizes at any of these retailers, a **pricing review meeting is called within 48 hours**. The **Customer Development Lead** owns this meeting and the decision to respond.
 - **Expected impact:** Retaining even 5% of size-switch defectors = 22,000+ shoppers/year.
@@ -97,16 +97,16 @@ _¹ Brand total (1,783,580) is from sub-brand level query — NOT the arithmetic
 
 ## Recommended Actions
 
-| When             | What to do                                                                                                          | Expected outcome                                                          | Owner                       | Success Metric                                                    |
-| ---------------- | ------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- | --------------------------- | ----------------------------------------------------------------- |
-| **Next 30 days** | Continue 本体通常 targeted promotions at ¥200–250; identify 3 retailers with widest gap vs. Attack for priority    | Maintain trial flow; recover 40,000+ lapsed 本体通常 buyers              | Customer Development Lead   | ¥350 everyday price at top 5 retailers by March 1                  |
-| **Next 30 days** | Set trial price ceilings: 詰替ﾒｶﾞｼﾞｬﾝﾎﾞ ≤ ¥950, 詰替ｳﾙﾄﾗｼﾞｬﾝﾎﾞ ≤ ¥800                                           | Remove primary abandonment trigger on highest-loyalty sizes               | Category Revenue Management | Confirmed at all 9 retailers by March 15                           |
-| **Next 30 days** | Defend 詰替超特大 price gap vs. Attack 抗菌EX same size — ¥50 gap triggers 48-hr pricing review                     | Protect 1.1M+ shoppers; prevent further Attack gains at this size         | Customer Development Lead   | Weekly price-gap monitoring live by March 1                        |
-| **1–3 months**   | Design 本体通常 → 詰替超特大 upgrade pathway (refill trial offer with 本体通常 purchase)                             | Convert 10%+ of 本体通常 trial buyers into refill loyalty engine          | Brand Manager               | Upgrade offer tested at 2+ retailers by May 2026                   |
-| **1–3 months**   | Run 詰替ﾒｶﾞｼﾞｬﾝﾎﾞ targeted price promotions at retailers where Attack is gaining trial                             | +30,000 loyal shoppers/year (~¥342M lifetime value, est.)                 | Brand Manager               | +20% first-time 詰替ﾒｶﾞｼﾞｬﾝﾎﾞ buyers vs. Q1 2025 by June 2026   |
-| **1–3 months**   | Weekly size × retailer price-gap dashboard vs. Attack (prioritize 詰替超特大, 詰替ﾒｶﾞｼﾞｬﾝﾎﾞ, 本体通常)             | Early warning system; prevent Attack from opening new gaps                | Customer Development Lead   | Live dashboard by March 31; first review week of April             |
-| **3–12 months**  | Shift 詰替超ｳﾙﾄﾗｼﾞｬﾝﾎﾞ price-off budget to 詰替ﾒｶﾞｼﾞｬﾝﾎﾞ and 本体通常 trial promotions                          | Budget-neutral; doubles new-buyer yield per promotional yen               | Brand Manager + Finance     | Budget reallocated before H2 2026 planning cycle                   |
-| **3–12 months**  | Protect refill pricing — no further price increases on any refill size in H1 2026                                   | Defend 12–17pp return rate advantage over Attack                          | Category Revenue Management | No refill ASP increase in H1 2026 operating plan                   |
+| When             | What to do                                                                                                      | Expected outcome                                                  | Owner                       | Success Metric                                                |
+| ---------------- | --------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- | --------------------------- | ------------------------------------------------------------- |
+| **Next 30 days** | Continue 本体通常 targeted promotions at ¥200–250; identify 3 retailers with widest gap vs. Attack for priority | Maintain trial flow; recover 40,000+ lapsed 本体通常 buyers       | Customer Development Lead   | ¥350 everyday price at top 5 retailers by March 1             |
+| **Next 30 days** | Set trial price ceilings: 詰替ﾒｶﾞｼﾞｬﾝﾎﾞ ≤ ¥950, 詰替ｳﾙﾄﾗｼﾞｬﾝﾎﾞ ≤ ¥800                                           | Remove primary abandonment trigger on highest-loyalty sizes       | Category Revenue Management | Confirmed at all 9 retailers by March 15                      |
+| **Next 30 days** | Defend 詰替超特大 price gap vs. Attack 抗菌EX same size — ¥50 gap triggers 48-hr pricing review                 | Protect 1.1M+ shoppers; prevent further Attack gains at this size | Customer Development Lead   | Weekly price-gap monitoring live by March 1                   |
+| **1–3 months**   | Design 本体通常 → 詰替超特大 upgrade pathway (refill trial offer with 本体通常 purchase)                        | Convert 10%+ of 本体通常 trial buyers into refill loyalty engine  | Brand Manager               | Upgrade offer tested at 2+ retailers by May 2026              |
+| **1–3 months**   | Run 詰替ﾒｶﾞｼﾞｬﾝﾎﾞ targeted price promotions at retailers where Attack is gaining trial                          | +30,000 loyal shoppers/year (~¥342M lifetime value, est.)         | Brand Manager               | +20% first-time 詰替ﾒｶﾞｼﾞｬﾝﾎﾞ buyers vs. Q1 2025 by June 2026 |
+| **1–3 months**   | Weekly size × retailer price-gap dashboard vs. Attack (prioritize 詰替超特大, 詰替ﾒｶﾞｼﾞｬﾝﾎﾞ, 本体通常)          | Early warning system; prevent Attack from opening new gaps        | Customer Development Lead   | Live dashboard by March 31; first review week of April        |
+| **3–12 months**  | Shift 詰替超ｳﾙﾄﾗｼﾞｬﾝﾎﾞ price-off budget to 詰替ﾒｶﾞｼﾞｬﾝﾎﾞ and 本体通常 trial promotions                          | Budget-neutral; doubles new-buyer yield per promotional yen       | Brand Manager + Finance     | Budget reallocated before H2 2026 planning cycle              |
+| **3–12 months**  | Protect refill pricing — no further price increases on any refill size in H1 2026                               | Defend 12–17pp return rate advantage over Attack                  | Category Revenue Management | No refill ASP increase in H1 2026 operating plan              |
 
 ---
 
