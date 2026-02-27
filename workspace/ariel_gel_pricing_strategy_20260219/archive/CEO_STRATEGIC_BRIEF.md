@@ -3,7 +3,7 @@
 **From:** CEO Agent  
 **To:** Story Teller Agent (for final deliverable production)  
 **Re:** Strategic direction for the Ariel Gel Pricing & Sizing Strategy report  
-**Date:** February 25, 2026  
+**Date:** February 25, 2026
 
 ---
 
@@ -23,14 +23,14 @@ Every person who reads this document must leave knowing exactly what changed, wh
 
 ### What is at stake?
 
-| Metric | Value |
-|--------|-------|
-| Annual revenue at risk from shopper loss | **¥2.58 billion** |
-| Shoppers who stopped buying Ariel Gel | **1.78 million** |
-| Shoppers who switched directly to Attack | **~410,000** |
-| Monthly loyal-buyer gap widening vs Attack | **~85,000 buyers/month** |
-| Cost of 90-day delay | **~252,000 buyers + ~¥239M in revenue permanently lost** |
-| 3-year lifetime value of one loyal Mega Jumbo buyer | **¥11,400** |
+| Metric                                              | Value                                                    |
+| --------------------------------------------------- | -------------------------------------------------------- |
+| Annual revenue at risk from shopper loss            | **¥2.58 billion**                                        |
+| Shoppers who stopped buying Ariel Gel               | **1.78 million**                                         |
+| Shoppers who switched directly to Attack            | **~410,000**                                             |
+| Monthly loyal-buyer gap widening vs Attack          | **~85,000 buyers/month**                                 |
+| Cost of 90-day delay                                | **~252,000 buyers + ~¥239M in revenue permanently lost** |
+| 3-year lifetime value of one loyal Mega Jumbo buyer | **¥11,400**                                              |
 
 This is not a market research exercise. This is a revenue emergency with a closing competitive window.
 
@@ -82,48 +82,48 @@ This is not a market research exercise. This is a revenue emergency with a closi
 
 ### 本体通常 (Regular Bottle) — ROLE: Trial Entry Door
 
-| Dimension | Detail |
-|-----------|--------|
-| **Portfolio role** | Trial acquisition. The first Ariel Gel product a new buyer touches. This is our front door. |
-| **Key problem** | 54.9% lapse rate — worst of all sizes. We raised price +29% while Attack cut -22%. Lapsed buyers averaged ¥255 at last purchase vs ¥408 for stayers — the ¥198 promo recruited price-sensitive buyers who could not sustain at regular price. |
-| **Action needed** | (1) Maintain ¥200–250 trial promotions at top retailers. (2) Cap everyday shelf price at ¥350. (3) Pair every trial promo with a 詰替超特大 upgrade offer (≤¥450) to funnel buyers into the refill system. |
-| **Expected ¥ impact** | 10% lapse recovery = ~40,000 buyers → ¥25M–67M/year in direct revenue. Each buyer who enters the refill system generates ¥5,000–11,400 in 3-year lifetime value. |
+| Dimension             | Detail                                                                                                                                                                                                                                        |
+| --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Portfolio role**    | Trial acquisition. The first Ariel Gel product a new buyer touches. This is our front door.                                                                                                                                                   |
+| **Key problem**       | 54.9% lapse rate — worst of all sizes. We raised price +29% while Attack cut -22%. Lapsed buyers averaged ¥255 at last purchase vs ¥408 for stayers — the ¥198 promo recruited price-sensitive buyers who could not sustain at regular price. |
+| **Action needed**     | (1) Maintain ¥200–250 trial promotions at top retailers. (2) Cap everyday shelf price at ¥350. (3) Pair every trial promo with a 詰替超特大 upgrade offer (≤¥450) to funnel buyers into the refill system.                                    |
+| **Expected ¥ impact** | 10% lapse recovery = ~40,000 buyers → ¥25M–67M/year in direct revenue. Each buyer who enters the refill system generates ¥5,000–11,400 in 3-year lifetime value.                                                                              |
 
 ### 詰替超特大 (Super Large Refill) — ROLE: Strategic Bridge / Battleground
 
-| Dimension | Detail |
-|-----------|--------|
-| **Portfolio role** | The critical transition size: bridge between trial (本体通常) and the high-loyalty large refills. If we lose a buyer here, they never reach the loyalty engine. |
-| **Key problem** | Attack has 2× our shoppers (2,255,320 vs 1,108,637) — our largest single-size competitive deficit. 44.6% lapse rate. 45% of lapsed buyers who switch go to Attack 詰替超特大 (same size). This is a direct head-to-head fight and we are losing it. |
-| **Action needed** | (1) Defend pricing: if Attack drops more than ¥50 below Ariel on this size, trigger 48-hour pricing review. (2) Run upgrade promotions targeted to 本体通常 buyers — loyalty card database enables this targeting. (3) Price upgrade offers at ≤¥450. |
-| **Expected ¥ impact** | Closing half the 2× shopper gap over 2 years = ~550,000 buyer-occasions × ¥337 × 3 purchases/year = ~¥555M in incremental annual revenue. |
+| Dimension             | Detail                                                                                                                                                                                                                                                |
+| --------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Portfolio role**    | The critical transition size: bridge between trial (本体通常) and the high-loyalty large refills. If we lose a buyer here, they never reach the loyalty engine.                                                                                       |
+| **Key problem**       | Attack has 2× our shoppers (2,255,320 vs 1,108,637) — our largest single-size competitive deficit. 44.6% lapse rate. 45% of lapsed buyers who switch go to Attack 詰替超特大 (same size). This is a direct head-to-head fight and we are losing it.   |
+| **Action needed**     | (1) Defend pricing: if Attack drops more than ¥50 below Ariel on this size, trigger 48-hour pricing review. (2) Run upgrade promotions targeted to 本体通常 buyers — loyalty card database enables this targeting. (3) Price upgrade offers at ≤¥450. |
+| **Expected ¥ impact** | Closing half the 2× shopper gap over 2 years = ~550,000 buyer-occasions × ¥337 × 3 purchases/year = ~¥555M in incremental annual revenue.                                                                                                             |
 
 ### 詰替ｳﾙﾄﾗｼﾞｬﾝﾎﾞ (Ultra Jumbo Refill) — ROLE: Loyalty Builder
 
-| Dimension | Detail |
-|-----------|--------|
-| **Portfolio role** | Early loyalty. Shoppers who reach this size are entering the refill system. Repeat rate is 32.7% (trial cohort), and Ariel's return rate advantage over Attack is strongest at this size class. |
-| **Key problem** | Lapse rate of 39.3% (lowest of all Ariel sizes, but still represents 322,200 lost buyers). Among lapsed, 8.3% went to Attack 詰替超ｳﾙﾄﾗｼﾞｬﾝﾎﾞ — they size up when switching. Post-renewal repeat rate improved +3.5pp — a positive signal but only 1–2 quarters of data. |
-| **Action needed** | (1) Cap first-purchase price at ≤¥800. (2) Protect current pricing — no further price increases in H1 2026. (3) Monitor the post-renewal repeat improvement quarterly to confirm durability. |
-| **Expected ¥ impact** | Defending the existing 819,128 active shoppers at ¥653 avg ASP = ¥1.6B in maintained annual revenue base. |
+| Dimension             | Detail                                                                                                                                                                                                                                                                   |
+| --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Portfolio role**    | Early loyalty. Shoppers who reach this size are entering the refill system. Repeat rate is 32.7% (trial cohort), and Ariel's return rate advantage over Attack is strongest at this size class.                                                                          |
+| **Key problem**       | Lapse rate of 39.3% (lowest of all Ariel sizes, but still represents 322,200 lost buyers). Among lapsed, 8.3% went to Attack 詰替超ｳﾙﾄﾗｼﾞｬﾝﾎﾞ — they size up when switching. Post-renewal repeat rate improved +3.5pp — a positive signal but only 1–2 quarters of data. |
+| **Action needed**     | (1) Cap first-purchase price at ≤¥800. (2) Protect current pricing — no further price increases in H1 2026. (3) Monitor the post-renewal repeat improvement quarterly to confirm durability.                                                                             |
+| **Expected ¥ impact** | Defending the existing 819,128 active shoppers at ¥653 avg ASP = ¥1.6B in maintained annual revenue base.                                                                                                                                                                |
 
 ### 詰替超ｳﾙﾄﾗｼﾞｬﾝﾎﾞ (Super Ultra Jumbo Refill) — ROLE: Volume Anchor (Shelf Presence, Not Price)
 
-| Dimension | Detail |
-|-----------|--------|
-| **Portfolio role** | Largest shopper base among refills (918,717 active buyers). Volume anchor and the size where Ariel competes closest to parity with Attack on lapse rates (42.7% vs 42.0%). |
-| **Key problem** | Price sensitivity is near zero (correlation r = +0.107). Price promotions on this size generate zero measurable new buyers — we are wasting promotional budget here. 16.4% of lapsed buyers switch directly to Attack 詰替超ｳﾙﾄﾗｼﾞｬﾝﾎﾞ (same size). |
-| **Action needed** | (1) Stop all price-off promotions on this size — reallocate that budget to Mega Jumbo and Regular Bottle where price drives trial. (2) Invest in end-cap display, prime shelf placement, and in-store visibility instead. (3) This is budget-neutral. |
-| **Expected ¥ impact** | Budget-neutral reallocation that more than doubles new-buyer yield per promotional yen spent (based on store-week data). |
+| Dimension             | Detail                                                                                                                                                                                                                                                |
+| --------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Portfolio role**    | Largest shopper base among refills (918,717 active buyers). Volume anchor and the size where Ariel competes closest to parity with Attack on lapse rates (42.7% vs 42.0%).                                                                            |
+| **Key problem**       | Price sensitivity is near zero (correlation r = +0.107). Price promotions on this size generate zero measurable new buyers — we are wasting promotional budget here. 16.4% of lapsed buyers switch directly to Attack 詰替超ｳﾙﾄﾗｼﾞｬﾝﾎﾞ (same size).   |
+| **Action needed**     | (1) Stop all price-off promotions on this size — reallocate that budget to Mega Jumbo and Regular Bottle where price drives trial. (2) Invest in end-cap display, prime shelf placement, and in-store visibility instead. (3) This is budget-neutral. |
+| **Expected ¥ impact** | Budget-neutral reallocation that more than doubles new-buyer yield per promotional yen spent (based on store-week data).                                                                                                                              |
 
 ### 詰替ﾒｶﾞｼﾞｬﾝﾎﾞ (Mega Jumbo Refill) — ROLE: Loyalty Fortress
 
-| Dimension | Detail |
-|-----------|--------|
-| **Portfolio role** | The ultimate loyalty size. 92% same-pack repeat rate. Once a buyer reaches Mega Jumbo, they almost never leave — unless we price them out. |
-| **Key problem** | 50.2% lapse rate masks a clear price ceiling: lapsed buyers paid ¥980 vs loyal buyers ¥949. ¥31 is the difference between a ¥11,400 three-year customer and a lost one. 24.6% of lapsed Mega Jumbo buyers went directly to Attack Mega Jumbo — the highest same-size competitive switch rate in the portfolio (95% of all Attack switches from this size were same-size). |
-| **Action needed** | (1) Hard price ceiling: first-purchase price ≤¥950 at all 9 retailers, no exceptions. (2) Price promotions work powerfully on this size — 94 out of 100 store-weeks showed a price cut bringing in new buyers. (3) Redirect Super Ultra Jumbo promotional budget to Mega Jumbo price promotions. |
-| **Expected ¥ impact** | 30,000 new loyal shoppers/year × ¥11,400 three-year LTV = ~¥342M in lifetime value. Each ¥1 of margin sacrificed at first purchase returns ~¥34 in lifetime revenue. |
+| Dimension             | Detail                                                                                                                                                                                                                                                                                                                                                                    |
+| --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Portfolio role**    | The ultimate loyalty size. 92% same-pack repeat rate. Once a buyer reaches Mega Jumbo, they almost never leave — unless we price them out.                                                                                                                                                                                                                                |
+| **Key problem**       | 50.2% lapse rate masks a clear price ceiling: lapsed buyers paid ¥980 vs loyal buyers ¥949. ¥31 is the difference between a ¥11,400 three-year customer and a lost one. 24.6% of lapsed Mega Jumbo buyers went directly to Attack Mega Jumbo — the highest same-size competitive switch rate in the portfolio (95% of all Attack switches from this size were same-size). |
+| **Action needed**     | (1) Hard price ceiling: first-purchase price ≤¥950 at all 9 retailers, no exceptions. (2) Price promotions work powerfully on this size — 94 out of 100 store-weeks showed a price cut bringing in new buyers. (3) Redirect Super Ultra Jumbo promotional budget to Mega Jumbo price promotions.                                                                          |
+| **Expected ¥ impact** | 30,000 new loyal shoppers/year × ¥11,400 three-year LTV = ~¥342M in lifetime value. Each ¥1 of margin sacrificed at first purchase returns ~¥34 in lifetime revenue.                                                                                                                                                                                                      |
 
 ---
 
@@ -134,6 +134,7 @@ This is not a market research exercise. This is a revenue emergency with a closi
 Attack is accumulating ~85,000 additional loyal buyers over Ariel every month. Loyalty in this category is structural — once a shopper establishes a refill habit with Attack, they purchase 3–4 times per year for multiple years. Each month of delay does not create a one-month problem; it creates a multi-year compounding disadvantage.
 
 Based on current trajectories:
+
 - **By May 2026** (3 months): Attack gains ~252,000 additional loyal buyers, ~¥239M in annualized revenue permanently transferred
 - **By August 2026** (6 months): ~504,000 buyers, ~¥478M annualized
 - **By February 2027** (12 months): ~1,020,000 buyers, ~¥960M annualized — approaching ¥1 billion in annual revenue structurally shifted to the competitor
@@ -142,10 +143,10 @@ The entrenchment horizon is approximately 6–9 months. After that, Attack's ref
 
 ### Cost of 90-day delay vs cost of action
 
-| Scenario | Buyers lost | ¥ Revenue impact | Nature of loss |
-|----------|------------|-------------------|----------------|
-| **90-day delay** | ~252,000 additional buyers to Attack | ~¥239M annualized revenue | **Permanent** — these become Attack loyalists |
-| **Cost of action** (price ceiling enforcement + promo reallocation) | Near-zero incremental budget | Budget-neutral (reallocation from Super Ultra refill to Mega Jumbo) | **Recoverable** — trial investments compound through refill loyalty |
+| Scenario                                                            | Buyers lost                          | ¥ Revenue impact                                                    | Nature of loss                                                      |
+| ------------------------------------------------------------------- | ------------------------------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| **90-day delay**                                                    | ~252,000 additional buyers to Attack | ~¥239M annualized revenue                                           | **Permanent** — these become Attack loyalists                       |
+| **Cost of action** (price ceiling enforcement + promo reallocation) | Near-zero incremental budget         | Budget-neutral (reallocation from Super Ultra refill to Mega Jumbo) | **Recoverable** — trial investments compound through refill loyalty |
 
 The cost of action is near-zero beyond execution effort. The cost of waiting is ¥239M every 90 days, compounding.
 
@@ -207,15 +208,15 @@ These structural advantages are real but depreciating. Each month of price-gap d
 
 Every chart in the final deliverable must have an **insight-stating title**, not a variable-naming title.
 
-| ❌ Wrong (variable-naming) | ✅ Right (insight-stating) |
-|---------------------------|--------------------------|
-| "ASP Trend by Size" | "Ariel raised regular bottle price +29% in May 2025 while Attack cut -22%" |
-| "Lapse Rate Comparison" | "Regular bottle loses 55% of buyers — worst of all Ariel sizes" |
-| "Trial Shoppers by Brand" | "Attack attracts 2× Ariel's first-time buyers on every refill size" |
-| "Price Gap vs Unit Ratio" | "When Ariel becomes ¥50+ more expensive, buyers switch to Attack within weeks" |
-| "Repeat Rate by Size" | "92% of Mega Jumbo buyers come back for the same pack — Ariel's loyalty fortress" |
-| "Lapse Destination Flow" | "95% of lost Mega Jumbo buyers go directly to Attack Mega Jumbo" |
-| "Monthly Buyer Trend" | "Ariel is losing ~85,000 loyal buyers to Attack every month" |
+| ❌ Wrong (variable-naming) | ✅ Right (insight-stating)                                                        |
+| -------------------------- | --------------------------------------------------------------------------------- |
+| "ASP Trend by Size"        | "Ariel raised regular bottle price +29% in May 2025 while Attack cut -22%"        |
+| "Lapse Rate Comparison"    | "Regular bottle loses 55% of buyers — worst of all Ariel sizes"                   |
+| "Trial Shoppers by Brand"  | "Attack attracts 2× Ariel's first-time buyers on every refill size"               |
+| "Price Gap vs Unit Ratio"  | "When Ariel becomes ¥50+ more expensive, buyers switch to Attack within weeks"    |
+| "Repeat Rate by Size"      | "92% of Mega Jumbo buyers come back for the same pack — Ariel's loyalty fortress" |
+| "Lapse Destination Flow"   | "95% of lost Mega Jumbo buyers go directly to Attack Mega Jumbo"                  |
+| "Monthly Buyer Trend"      | "Ariel is losing ~85,000 loyal buyers to Attack every month"                      |
 
 The title tells the reader what to think. The chart proves it.
 
