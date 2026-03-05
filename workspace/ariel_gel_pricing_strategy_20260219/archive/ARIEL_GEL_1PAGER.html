@@ -1,0 +1,535 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Ariel Gel Pricing Strategy — 1-Pager</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700;900&display=swap');
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: 'Noto Sans JP', 'MS Gothic', sans-serif;
+    font-size: 10px;
+    background: #f0f4f8;
+    color: #1a1a2e;
+  }
+  .page {
+    width: 297mm;
+    min-height: 210mm;
+    max-width: 297mm;
+    margin: 10px auto;
+    background: white;
+    padding: 10mm 12mm 8mm 12mm;
+    box-shadow: 0 4px 24px rgba(0,0,0,0.15);
+  }
+
+  /* HEADER */
+  .header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    border-bottom: 3px solid #0046ad;
+    padding-bottom: 6px;
+    margin-bottom: 8px;
+  }
+  .header-left h1 {
+    font-size: 14px;
+    font-weight: 900;
+    color: #0046ad;
+    line-height: 1.3;
+  }
+  .header-left .subtitle {
+    font-size: 8.5px;
+    color: #555;
+    margin-top: 3px;
+  }
+  .header-right {
+    text-align: right;
+    font-size: 8px;
+    color: #888;
+  }
+  .header-right .date { font-weight: 700; color: #0046ad; }
+
+  /* HEADLINE STRIP */
+  .headline-strip {
+    background: linear-gradient(135deg, #0046ad, #0070cc);
+    color: white;
+    padding: 7px 12px;
+    border-radius: 4px;
+    margin-bottom: 8px;
+    font-size: 10.5px;
+    font-weight: 700;
+    line-height: 1.5;
+  }
+
+  /* MAIN GRID */
+  .main-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: auto auto;
+    gap: 6px;
+    margin-bottom: 6px;
+  }
+
+  .card {
+    border: 1px solid #e0e8f0;
+    border-radius: 6px;
+    padding: 6px 8px;
+    background: #fff;
+  }
+  .card.accent-red { border-left: 4px solid #e63946; }
+  .card.accent-blue { border-left: 4px solid #0046ad; }
+  .card.accent-orange { border-left: 4px solid #f4a261; }
+  .card.accent-green { border-left: 4px solid #2a9d8f; }
+
+  .card h3 {
+    font-size: 8.5px;
+    font-weight: 900;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    color: #0046ad;
+    margin-bottom: 5px;
+    border-bottom: 1px solid #e8f0fe;
+    padding-bottom: 3px;
+  }
+
+  /* LAPSE TABLE */
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 8.5px;
+  }
+  th {
+    background: #0046ad;
+    color: white;
+    padding: 3px 4px;
+    text-align: left;
+    font-weight: 700;
+  }
+  td {
+    padding: 2.5px 4px;
+    border-bottom: 1px solid #eef2f7;
+  }
+  tr:nth-child(even) td { background: #f8faff; }
+  tr.highlight td { background: #fff3cd; font-weight: 700; }
+  tr.total-row td { background: #e8f0fe; font-weight: 700; border-top: 2px solid #0046ad; }
+  .rate-bad { color: #c62828; font-weight: 700; }
+  .rate-mid { color: #e65100; font-weight: 700; }
+  .rate-ok  { color: #2e7d32; font-weight: 700; }
+
+  /* BAR CHART */
+  .bar-chart { margin-top: 4px; }
+  .bar-row { display: flex; align-items: center; margin-bottom: 3px; }
+  .bar-label { width: 80px; font-size: 8px; text-align: right; padding-right: 5px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .bar-track { flex: 1; background: #e8f0fe; height: 12px; border-radius: 2px; position: relative; }
+  .bar-fill { height: 100%; border-radius: 2px; display: flex; align-items: center; padding-left: 3px; }
+  .bar-fill.ariel { background: linear-gradient(90deg, #0046ad, #4589de); }
+  .bar-fill.attack { background: linear-gradient(90deg, #c62828, #ef5350); }
+  .bar-val { font-size: 7.5px; color: white; font-weight: 700; white-space: nowrap; position: absolute; right: 3px; }
+  .bar-val-out { font-size: 7.5px; color: #333; font-weight: 700; margin-left: 4px; }
+  .legend { display: flex; gap: 10px; margin-top: 4px; font-size: 7.5px; }
+  .legend-item { display: flex; align-items: center; gap: 3px; }
+  .legend-dot { width: 8px; height: 8px; border-radius: 2px; }
+
+  /* KPI BOXES */
+  .kpi-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 5px; }
+  .kpi-box {
+    background: #f8faff;
+    border: 1px solid #bdd1f5;
+    border-radius: 4px;
+    padding: 4px 6px;
+    text-align: center;
+  }
+  .kpi-value { font-size: 14px; font-weight: 900; color: #0046ad; line-height: 1.1; }
+  .kpi-label { font-size: 7px; color: #555; margin-top: 2px; line-height: 1.3; }
+  .kpi-box.red .kpi-value { color: #c62828; }
+  .kpi-box.green .kpi-value { color: #2a9d8f; }
+  .kpi-box.orange .kpi-value { color: #e76f00; }
+
+  /* FUNNEL / FLOW */
+  .flow-box {
+    display: flex;
+    flex-direction: column;
+    gap: 3px;
+  }
+  .flow-step {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    padding: 3px 6px;
+    border-radius: 3px;
+    font-size: 8px;
+  }
+  .flow-step.step1 { background: #e3f2fd; border-left: 3px solid #0046ad; }
+  .flow-step.step2 { background: #fff8e1; border-left: 3px solid #f4a261; }
+  .flow-step.step3 { background: #e8f5e9; border-left: 3px solid #2a9d8f; }
+  .flow-step .vol { font-weight: 900; color: #0046ad; min-width: 60px; }
+  .flow-arrow { text-align: center; font-size: 9px; color: #aaa; }
+
+  /* ACTION TABLE */
+  .action-table { width: 100%; border-collapse: collapse; font-size: 8px; }
+  .action-table th {
+    background: #0046ad;
+    color: white;
+    padding: 3px 5px;
+    font-size: 7.5px;
+    text-align: left;
+  }
+  .action-table td { padding: 3px 5px; border-bottom: 1px solid #eef2f7; vertical-align: top; line-height: 1.4; }
+  .action-table tr:nth-child(even) td { background: #f8faff; }
+  .tag {
+    display: inline-block;
+    padding: 1px 5px;
+    border-radius: 10px;
+    font-size: 7px;
+    font-weight: 700;
+    white-space: nowrap;
+  }
+  .tag.urgent { background: #ffebee; color: #c62828; border: 1px solid #ef9a9a; }
+  .tag.soon { background: #fff8e1; color: #e65100; border: 1px solid #ffcc80; }
+  .tag.mid { background: #e8f5e9; color: #2e7d32; border: 1px solid #a5d6a7; }
+
+  /* BOTTOM SUPPORTING DATA ROW */
+  .support-grid {
+    display: grid;
+    grid-template-columns: 1.1fr 1fr 0.9fr;
+    gap: 6px;
+  }
+
+  /* FOOTER */
+  .footer {
+    margin-top: 6px;
+    border-top: 1px solid #dde6f0;
+    padding-top: 4px;
+    display: flex;
+    justify-content: space-between;
+    font-size: 7px;
+    color: #aaa;
+  }
+
+  /* Span helpers */
+  .span2 { grid-column: span 2; }
+  .full-width { grid-column: 1 / -1; }
+
+  /* Insight callout */
+  .callout {
+    background: #fff8e1;
+    border: 1px solid #ffe082;
+    border-radius: 4px;
+    padding: 5px 8px;
+    font-size: 8.5px;
+    line-height: 1.5;
+    margin-top: 4px;
+  }
+  .callout strong { color: #e76f00; }
+
+  .insight-row {
+    display: flex;
+    gap: 4px;
+    margin-top: 3px;
+  }
+  .insight-item {
+    flex: 1;
+    background: #f0f7ff;
+    border-radius: 3px;
+    padding: 4px 5px;
+    font-size: 7.5px;
+    border-top: 2px solid #0046ad;
+  }
+  .insight-item.red-top { border-top-color: #c62828; background: #fff5f5; }
+  .insight-item.green-top { border-top-color: #2a9d8f; background: #f0faf9; }
+  .insight-item .i-title { font-weight: 700; font-size: 8px; margin-bottom: 2px; }
+</style>
+</head>
+<body>
+<div class="page">
+
+  <!-- HEADER -->
+  <div class="header">
+    <div class="header-left">
+      <h1>アリエールジェル 価格戦略レポート — ¥198 本体通常 トライアル後の次の一手</h1>
+      <div class="subtitle">9 National Retailers | Loyalty Cardholders | Jan 2025 – Jan 2026 | アタック抗菌EX 比較</div>
+    </div>
+    <div class="header-right">
+      <div class="date">February 19, 2026</div>
+      <div>IDPOS Loyalty Transaction Data</div>
+      <div>CONFIDENTIAL — P&G Internal Use Only</div>
+    </div>
+  </div>
+
+  <!-- HEADLINE STRIP -->
+  <div class="headline-strip">
+    ✅ 本体通常 ¥198 トライアルはショッパー数を増やすことに成功 — しかし低品質トライアルによる大量離反が課題。
+    次のアクション: <strong style="color:#ffd166">詰替超特大</strong> を攻守のカギとして位置づけ、トライアル → リフィル への移行経路を早急に構築する。
+  </div>
+
+  <!-- TOP ROW: 3 columns -->
+  <div class="main-grid">
+
+    <!-- CARD 1: KPI Summary -->
+    <div class="card accent-red">
+      <h3>📊 規模感 — ブランド比較</h3>
+      <div class="kpi-grid">
+        <div class="kpi-box">
+          <div class="kpi-value">1.14M</div>
+          <div class="kpi-label">Ariel Gel<br>新規購入者 (2025)</div>
+        </div>
+        <div class="kpi-box red">
+          <div class="kpi-value">2.16M</div>
+          <div class="kpi-label">Attack 抗菌EX<br>新規購入者 (2025)</div>
+        </div>
+        <div class="kpi-box orange">
+          <div class="kpi-value">1.78M</div>
+          <div class="kpi-label">Ariel 離反者<br>合計（サブブランド計）</div>
+        </div>
+        <div class="kpi-box red">
+          <div class="kpi-value">¥2.58B</div>
+          <div class="kpi-label">年間売上リスク<br>（推定 × 3回購買）</div>
+        </div>
+        <div class="kpi-box">
+          <div class="kpi-value">410K</div>
+          <div class="kpi-label">→ Attack へ<br>直接流出</div>
+        </div>
+        <div class="kpi-box green">
+          <div class="kpi-value">12–17pp</div>
+          <div class="kpi-label">Ariel リフィル<br>リピート優位</div>
+        </div>
+      </div>
+      <div class="callout" style="margin-top:5px;">
+        <strong>Note:</strong> アリエールはアタックより小さいブランド。¥198 トライアルはショッパー増に貢献。課題は「質」。
+      </div>
+    </div>
+
+    <!-- CARD 2: Lapse Table -->
+    <div class="card accent-red">
+      <h3>🔴 サイズ別 離反率テーブル — アリエールジェル</h3>
+      <table>
+        <thead>
+          <tr>
+            <th>サイズ</th>
+            <th>離反者数</th>
+            <th>購入者合計</th>
+            <th>離反率</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr class="highlight">
+            <td>本体通常<br><span style="font-size:7px;color:#888">¥198 トライアル対象</span></td>
+            <td>406,262</td>
+            <td>740,575</td>
+            <td class="rate-bad">54.9%</td>
+          </tr>
+          <tr>
+            <td>詰替ﾒｶﾞｼﾞｬﾝﾎﾞ</td>
+            <td>175,587</td>
+            <td>349,646</td>
+            <td class="rate-bad">50.2%</td>
+          </tr>
+          <tr style="background:#fff8f0;">
+            <td><strong>詰替超特大</strong><br><span style="font-size:7px;color:#e76f00">⭐ 重点サイズ</span></td>
+            <td>494,040</td>
+            <td>1,108,637</td>
+            <td class="rate-mid">44.6%</td>
+          </tr>
+          <tr>
+            <td>詰替超ｳﾙﾄﾗｼﾞｬﾝﾎﾞ</td>
+            <td>392,206</td>
+            <td>918,716</td>
+            <td class="rate-mid">42.7%</td>
+          </tr>
+          <tr>
+            <td>詰替ｳﾙﾄﾗｼﾞｬﾝﾎﾞ</td>
+            <td>322,200</td>
+            <td>819,127</td>
+            <td class="rate-mid">39.3%</td>
+          </tr>
+          <tr class="total-row">
+            <td>合計 <span style="font-size:7px;font-weight:400">(サブブランド計)</span></td>
+            <td><strong>~1,783,580</strong></td>
+            <td>—</td>
+            <td>—</td>
+          </tr>
+        </tbody>
+      </table>
+      <div style="font-size:7px;color:#888;margin-top:3px;">※ 合計はサブブランドレベルで集計。サイズ行の単純合算ではない。その他・詰替通常は除外。</div>
+    </div>
+
+    <!-- CARD 3: Shopper size comparison bar chart -->
+    <div class="card accent-blue">
+      <h3>📦 サイズ別 ショッパー数比較 (K)</h3>
+      <div class="bar-chart">
+
+        <div style="font-size:7.5px;color:#555;margin-bottom:3px;">単位: 千人 (K)</div>
+
+        <div class="bar-row">
+          <div class="bar-label">本体通常</div>
+          <div style="flex:1;">
+            <div style="display:flex;align-items:center;gap:2px;margin-bottom:1px;">
+              <div style="width:62%;background:linear-gradient(90deg,#0046ad,#4589de);height:10px;border-radius:2px;"></div>
+              <span style="font-size:7.5px;color:#0046ad;font-weight:700;">1,009K</span>
+            </div>
+            <div style="display:flex;align-items:center;gap:2px;">
+              <div style="width:58%;background:linear-gradient(90deg,#c62828,#ef5350);height:10px;border-radius:2px;"></div>
+              <span style="font-size:7.5px;color:#c62828;font-weight:700;">905K</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="bar-row" style="margin-top:4px;">
+          <div class="bar-label">詰替超特大</div>
+          <div style="flex:1;">
+            <div style="display:flex;align-items:center;gap:2px;margin-bottom:1px;">
+              <div style="width:35%;background:linear-gradient(90deg,#0046ad,#4589de);height:10px;border-radius:2px;"></div>
+              <span style="font-size:7.5px;color:#0046ad;font-weight:700;">1,109K</span>
+            </div>
+            <div style="display:flex;align-items:center;gap:2px;">
+              <div style="width:71%;background:linear-gradient(90deg,#c62828,#ef5350);height:10px;border-radius:2px;"></div>
+              <span style="font-size:7.5px;color:#c62828;font-weight:700;font-weight:700;">2,255K ⚠️</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="bar-row" style="margin-top:4px;">
+          <div class="bar-label">詰替超ｳﾙﾄﾗｼﾞｬﾝﾎﾞ</div>
+          <div style="flex:1;">
+            <div style="display:flex;align-items:center;gap:2px;margin-bottom:1px;">
+              <div style="width:50%;background:linear-gradient(90deg,#0046ad,#4589de);height:10px;border-radius:2px;"></div>
+              <span style="font-size:7.5px;color:#0046ad;font-weight:700;">1,602K</span>
+            </div>
+            <div style="display:flex;align-items:center;gap:2px;">
+              <div style="width:100%;background:linear-gradient(90deg,#c62828,#ef5350);height:10px;border-radius:2px;"></div>
+              <span style="font-size:7.5px;color:#c62828;font-weight:700;">3,446K</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="bar-row" style="margin-top:4px;">
+          <div class="bar-label">詰替ﾒｶﾞｼﾞｬﾝﾎﾞ</div>
+          <div style="flex:1;">
+            <div style="display:flex;align-items:center;gap:2px;margin-bottom:1px;">
+              <div style="width:28%;background:linear-gradient(90deg,#0046ad,#4589de);height:10px;border-radius:2px;"></div>
+              <span style="font-size:7.5px;color:#0046ad;font-weight:700;">500K</span>
+            </div>
+            <div style="display:flex;align-items:center;gap:2px;">
+              <div style="width:50%;background:linear-gradient(90deg,#c62828,#ef5350);height:10px;border-radius:2px;"></div>
+              <span style="font-size:7.5px;color:#c62828;font-weight:700;">886K</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="legend" style="margin-top:6px;">
+          <div class="legend-item"><div class="legend-dot" style="background:#0046ad;"></div><span>アリエールジェル</span></div>
+          <div class="legend-item"><div class="legend-dot" style="background:#c62828;"></div><span>アタック抗菌EX</span></div>
+        </div>
+        <div style="font-size:7px;color:#e76f00;margin-top:3px;font-weight:700;">詰替超特大: Attack が Ariel の約2倍。最大の競合ギャップ。</div>
+      </div>
+    </div>
+
+  </div><!-- end main-grid -->
+
+  <!-- SUPPORT ROW -->
+  <div class="support-grid">
+
+    <!-- Strategic Funnel -->
+    <div class="card accent-orange">
+      <h3>⭐ 戦略フレーム — トライアルからロイヤルティへ</h3>
+      <div class="flow-box">
+        <div class="flow-step step1">
+          <div>
+            <div class="vol">本体通常 (¥198)</div>
+            <div>トライアル獲得 ✅ — ショッパー数増加達成</div>
+            <div style="color:#c62828;font-size:7.5px;">⚠️ 離反率 54.9% — 低品質トライアルが課題</div>
+          </div>
+        </div>
+        <div class="flow-arrow">↓ 次の購買で分岐</div>
+        <div class="flow-step step2">
+          <div>
+            <div class="vol" style="color:#e76f00;">詰替超特大 🎯</div>
+            <div><strong>最重要 — トライアルからリフィルへの「関門」サイズ</strong></div>
+            <div style="font-size:7.5px;">Attack と直接競合・同サイズ | 価格差が離脱を決める</div>
+            <div style="font-size:7.5px;color:#c62828;">Attack は Ariel の2倍のショッパー数</div>
+          </div>
+        </div>
+        <div class="flow-arrow">↓ 定着すれば</div>
+        <div class="flow-step step3">
+          <div>
+            <div class="vol" style="color:#2a9d8f;">大容量リフィル</div>
+            <div>詰替超ｳﾙﾄﾗｼﾞｬﾝﾎﾞ / 詰替ﾒｶﾞｼﾞｬﾝﾎﾞ</div>
+            <div style="font-size:7.5px;">Ariel 12–17pp リピート優位 | LTV ¥11,400/3年 (詰替ﾒｶﾞｼﾞｬﾝﾎﾞ)</div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Post-lapse destination -->
+    <div class="card accent-red">
+      <h3>🔀 離反後の行先 — Attack への流出パターン</h3>
+      <table style="margin-bottom:4px;">
+        <thead>
+          <tr><th>Ariel 離反元</th><th>Attack 流出先</th><th>流出率</th></tr>
+        </thead>
+        <tbody>
+          <tr><td>詰替ﾒｶﾞｼﾞｬﾝﾎﾞ</td><td>Attack 詰替ﾒｶﾞｼﾞｬﾝﾎﾞ</td><td class="rate-bad">95%</td></tr>
+          <tr style="background:#fff8f0;"><td><strong>詰替超特大</strong></td><td>Attack 詰替超特大</td><td class="rate-mid">45%</td></tr>
+          <tr><td>詰替超ｳﾙﾄﾗｼﾞｬﾝﾎﾞ</td><td>Attack 詰替超ｳﾙﾄﾗｼﾞｬﾝﾎﾞ</td><td class="rate-mid">73%</td></tr>
+          <tr><td>本体通常</td><td>Attack 本体通常</td><td class="rate-ok">29%</td></tr>
+        </tbody>
+      </table>
+      <div class="callout">
+        <strong>49.9%</strong> の離反者は<strong>カテゴリー離脱</strong>（洗濯洗剤を購入せず）。<br>Attack に取られていない — <strong>再獲得可能なショッパー</strong>。
+      </div>
+    </div>
+
+    <!-- Action Plan -->
+    <div class="card accent-green">
+      <h3>✅ アクションプラン</h3>
+      <table class="action-table">
+        <thead>
+          <tr><th>時期</th><th>アクション</th><th>期待効果</th></tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><span class="tag urgent">30日以内</span></td>
+            <td>本体通常 ¥200–250 促販継続<br>+詰替超特大 アップグレード同時訴求</td>
+            <td>離反 −10pp → 4万人回復</td>
+          </tr>
+          <tr>
+            <td><span class="tag urgent">30日以内</span></td>
+            <td>詰替超特大 価格差 vs. Attack 監視<br>¥50超で48時間以内に価格検討</td>
+            <td>110万ショッパーを防衛</td>
+          </tr>
+          <tr>
+            <td><span class="tag urgent">30日以内</span></td>
+            <td>詰替ﾒｶﾞｼﾞｬﾝﾎﾞ ≤¥950<br>詰替ｳﾙﾄﾗｼﾞｬﾝﾎﾞ ≤¥800 上限設定</td>
+            <td>離反トリガー除去</td>
+          </tr>
+          <tr>
+            <td><span class="tag soon">1–3ヶ月</span></td>
+            <td>詰替超特大 → 本体通常 バイヤーへの<br>アップグレードオファー試験</td>
+            <td>リフィル定着率向上</td>
+          </tr>
+          <tr>
+            <td><span class="tag soon">1–3ヶ月</span></td>
+            <td>週次サイズ×小売 価格差<br>ダッシュボード構築</td>
+            <td>早期警戒システム稼働</td>
+          </tr>
+          <tr>
+            <td><span class="tag mid">3–12ヶ月</span></td>
+            <td>詰替超ｳﾙﾄﾗｼﾞｬﾝﾎﾞ 価格販促予算→<br>詰替ﾒｶﾞｼﾞｬﾝﾎﾞ へ組み替え</td>
+            <td>販促効率2倍（同予算）</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+  </div><!-- end support-grid -->
+
+  <!-- FOOTER -->
+  <div class="footer">
+    <div>アリエールジェル Pricing &amp; Sizing Strategy | IDPOS Loyalty Transaction Data | 9 National Retailers | Jan 2025–Jan 2026 | Loyalty Cardholders Only (non-member ~20–40% of store volume not captured)</div>
+    <div>P&amp;G Internal — February 19, 2026</div>
+  </div>
+
+</div><!-- end page -->
+</body>
+</html>

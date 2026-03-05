@@ -1,0 +1,7 @@
+# Cached query data (Parquet + CSV) — regenerate by setting RELOAD_FROM_CACHE = False
+data/*.parquet
+data/*.csv
+
+# Large output files
+output/*.xlsx
+output/*.png
